@@ -2,7 +2,9 @@
 NOVATERRA ONG
 
 DISEÑO GRAFICO: Tarjetas de visita de Creixer de Fundacion Novaterra 2016
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Novaterra/TarjetasCreixer/master/dise%C3%B1o.png" width="600"/>
+</p>
 ## REALIZADO CON
 
 El diseños esta realizado con Inkscape programa de sofware libre
